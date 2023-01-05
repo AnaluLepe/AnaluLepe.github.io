@@ -1,0 +1,13 @@
+h1,h2{
+    font-family: 'Zilla Slab Highlight', cursive;
+}
+h2{
+    padding-top: 10px;
+}
+svg{
+    padding: 3px;
+}
+footer{
+    height: 250px;
+    width: auto;
+}
